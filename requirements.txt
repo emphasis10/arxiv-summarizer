@@ -1,0 +1,4 @@
+PyPDF2
+openai
+arxiv
+pickledb
